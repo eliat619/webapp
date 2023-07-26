@@ -10,4 +10,4 @@ st.slider('Pick a number', 0, 100)
 st.select_slider('Pick a size', ['S', 'M', 'L'])
 st.text_input('First name')
 
-st.write(['st', 'is <', 3]) # see *
+st.write(['st', 'is <', 3])
